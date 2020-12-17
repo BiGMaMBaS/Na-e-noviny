@@ -1,0 +1,1 @@
+<a href="{link}" class="top-news-item">{title}</a>

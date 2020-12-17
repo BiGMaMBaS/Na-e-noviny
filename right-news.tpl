@@ -1,0 +1,1 @@
+<a href="{full-link}" class="right-news">{title}<span>{date= H:i}</span></a>
